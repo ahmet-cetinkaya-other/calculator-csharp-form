@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ahmet-cetinkaya/Calculator-CSharp-Form">
-    <img src="/Calculator/Calculator.ico" alt="Logo" width="80" height="80">
+    <img src="Demo/Calculator.ico" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Calculator-CSharp-Form</h3>
@@ -17,8 +17,8 @@
    </a>
     <br />
     <br />
-    <img src="demo1.png" alt="Calculator CSharp Form Screen Shot" height="400">
-    <img src="demo2.gif" alt="Calculator CSharp Form Screen Shot" height="400">
+    <img src="Demo/demo1.png" alt="Calculator CSharp Form Screen Shot" height="400">
+    <img src="Demo/demo2.gif" alt="Calculator CSharp Form Screen Shot" height="400">
     <br />
     <br />
     <a href="https://github.com/ahmet-cetinkaya/Calculator-CSharp-Form/issues">Report Bug</a>
@@ -37,7 +37,7 @@
 
 ## Usage
 
-You can run it from the `\ Calculator \ bin \ Debug \ Calculator.exe` directory.
+You can run it from the `\ Demo \ Calculator.exe` directory.
 
 ## License
 
@@ -45,7 +45,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Ahmet Çetinkaya - [@ahmetctnky_txt](https://twitter.com/ahmetctnky_txt) - [ahmetcetinkaya7@outlook.com](mailto:ahmetcetinkaya7@outlook.com)
+Ahmet Çetinkaya - [@ahmetctnky_txt](https://twitter.com/ahmetctnky_txt) - [ahmetcetinkaya4@outlook.com](mailto:ahmetcetinkaya4@outlook.com)
 
 <!-- REFERENCES -->
 
